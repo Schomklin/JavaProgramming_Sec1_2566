@@ -1,0 +1,5 @@
+Student_id : 10213645
+Student Name: AAAA
+Major: IT
+Level : 1
+Faculty:Information Technology
